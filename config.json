@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": true,
+    "pools": [
+        {
+            "coin": null,
+            "algo": "kawpow",
+            "url": "kp.unmineable.com:3333",
+            "user": "DOGE:D86FZkw2Rru7v96kZjuWfZRW15hNZpgTiB",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
