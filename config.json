@@ -9,7 +9,7 @@
             "algo": "rx/0",
             "url": "stratum+tcp://randomxmonero.auto.nicehash.com:9200",
             "user": "NHbSHB981g1RDNafnmciy36oFVCrFgneUfam",
-            "pass": "amogus",
+            "pass": "x",
             "tls": false,
             "keepalive": true,
             "nicehash": true
