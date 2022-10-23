@@ -7,7 +7,7 @@
         {
             "coin": "monero",
             "algo": "rx/0",
-            "url": "xmr.2miners.com:2222",
+            "url": "gulf.moneroocean.stream:10001",
             "user": "44qr1h2dWiuXmUQMkDx8aWaB6uxnX7iJvdsV692kWNAVUHfZg48Z6EhG2ygHQPqtmgeFgXyRHhKksYVxiXcYEkaDN7oWERz",
             "pass": "x",
             "tls": false,
